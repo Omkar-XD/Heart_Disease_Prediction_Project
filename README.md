@@ -1,13 +1,14 @@
 # Heart_Disease_Prediction_Project
-## Overview
+* Overview
 This project aims to predict the likelihood of heart disease based on various health metrics using machine learning algorithms. The backend is implemented in Python, and the frontend is designed using HTML and CSS to create an interactive user interface.
 
-## Features
+
+🔥 Features
 - **Heart Disease Prediction**: Predicts the likelihood of heart disease based on user input.
 - **Interactive User Interface**: Allows users to input health data through HTML forms.
 - **Machine Learning Model**: Utilizes algorithms like Logistic Regression, Decision Trees, or Random Forest to predict the presence of heart disease.
 
-## Technologies Used
+🛠️ Technologies Used
 - **Backend**: Python
   - Machine Learning Algorithms (e.g., Logistic Regression, Random Forest, Decision Trees)
   - Pandas, NumPy for data processing
@@ -20,3 +21,14 @@ This project aims to predict the likelihood of heart disease based on various he
 
 ## Contribution
 Feel free to fork the repository and submit pull requests. If you encounter any issues or have suggestions for improvement, open an issue in the repository.
+
+📝 License This project is licensed under the MIT License. See the LICENSE file for more details.
+
+📧 Contact Developer: Omkar Chavan Email: omkarchavan21k@gmail.com
+
+Made with 💻 & ❤️ by Omkar Chavan.
+
+
+
+
+
